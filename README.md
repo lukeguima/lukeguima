@@ -17,8 +17,9 @@
   - Amazon Web Service (DynamoDB, AppSync, Amplify, Cognito, S3 and IAM);
   - Google Firebase (Realtime Database, Authentication, Hosting and Cloud Storage);
 - Web development:
+  - React;
   - Flask;
-  - HTML and CSS;
+  - HTML5 and CSS3;
 - UX/UI Design:
   - Figma (Wireframe creation);
 - App Store Management:
