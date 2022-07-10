@@ -13,13 +13,13 @@
 ## 📗 I have knowledge in:
 - Mobile app development:
   - React Native;
-- Cloud computing:
-  - Amazon Web Service (DynamoDB, AppSync, Amplify, Cognito, S3 and IAM);
-  - Google Firebase (Realtime Database, Authentication, Hosting and Cloud Storage);
 - Web development:
   - React;
   - Flask;
   - HTML5 and CSS3;
+- Cloud computing:
+  - Amazon Web Service (DynamoDB, AppSync, Amplify, Cognito, S3 and IAM);
+  - Google Firebase (Realtime Database, Authentication, Hosting and Cloud Storage);
 - UX/UI Design:
   - Figma (Wireframe creation);
 - App Store Management:
