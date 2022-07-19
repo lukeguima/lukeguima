@@ -6,9 +6,9 @@
 
 ### 🧙‍♂️ Meu nome é Lucas Guimarães;
 (My name is Lucas Guimarães)
-#### 🏖️ Eu sou do Brasil, moro em Salvador - Bahia; 
+### 🏖️ Eu sou do Brasil, moro em Salvador - Bahia; 
 (I'm from Brazil, I live in Salvador - Bahia)
-### 🖥️ Eu sou Engenheiro da Computação;
+### 🖥️ Sou graduando de Engenharia da Computação;
 (I'm a Computer Engineer)
 
 ## 📌 Social Networking
