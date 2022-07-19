@@ -1,12 +1,15 @@
 # Olá Devs 🖖🏽
-(Hello Devs 🖖)
+(Hello Devs)
 
 ## Bem vindos ao meu perfil do GitHub ;D
-(Welcome to my profile GitHub ;D)
+(Welcome to my profile GitHub)
 
-#### 🧙‍♂️ My name is Lucas Guimarães;
-#### 🏖️ I'm from Brazil, I live in Bahia;
-#### 🖥️ I'm a Computer Engineer;
+#### 🧙‍♂️ Meu nome é Lucas Guimarães;
+(My name is Lucas Guimarães)
+#### 🏖️ I'm from Brazil, I live in Salvador - Bahia;
+(Eu sou do Brasil, moro em Salvador - Bahia)
+#### 🖥️ Eu sou Engenheiro da Computação;
+(I'm a Computer Engineer)
 
 ## 📌 Social Networking
 <div>
