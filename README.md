@@ -4,11 +4,11 @@
 ## Bem vindos ao meu perfil do GitHub ;D
 (Welcome to my profile GitHub)
 
-#### 🧙‍♂️ Meu nome é Lucas Guimarães;
+### 🧙‍♂️ Meu nome é Lucas Guimarães;
 (My name is Lucas Guimarães)
-#### 🏖️ I'm from Brazil, I live in Salvador - Bahia;
-(Eu sou do Brasil, moro em Salvador - Bahia)
-#### 🖥️ Eu sou Engenheiro da Computação;
+#### 🏖️ Eu sou do Brasil, moro em Salvador - Bahia; 
+(I'm from Brazil, I live in Salvador - Bahia)
+### 🖥️ Eu sou Engenheiro da Computação;
 (I'm a Computer Engineer)
 
 ## 📌 Social Networking
