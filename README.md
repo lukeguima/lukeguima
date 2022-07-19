@@ -1,5 +1,9 @@
-# Hello Devs 🖖🏽
-## Welcome to my profile GitHub ;D
+# Olá Devs 🖖🏽
+## Hello Devs 🖖
+
+## Bem vindos ao meu perfil do GitHub ;D
+### Welcome to my profile GitHub ;D
+
 #### 🧙‍♂️ My name is Lucas Guimarães;
 #### 🏖️ I'm from Brazil, I live in Bahia;
 #### 🖥️ I'm a Computer Engineer;
